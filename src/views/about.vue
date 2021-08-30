@@ -9,6 +9,7 @@
       <van-swipe-item><p>1</p><p>1</p><p>1</p></van-swipe-item>
       <van-swipe-item><p>1</p><p>1</p><p>1</p></van-swipe-item>
       <van-swipe-item><p>1</p><p>1</p></van-swipe-item>
+      <van-swipe-item><p>1</p><p>1</p></van-swipe-item>
       <van-swipe-item><p>1</p><p>1</p><p>1</p><p>1</p></van-swipe-item>
     </van-swipe>
 
