@@ -5,6 +5,10 @@
     <router-link to="/about">about</router-link>
 
     <router-view />
+    <div class="dev">
+      dev第四次提交
+    </div>
+
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
