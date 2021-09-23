@@ -7,6 +7,9 @@
     <router-view />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <div class="master">
+      master 第一次提交
+    </div>
   </div>
 </template>
 
