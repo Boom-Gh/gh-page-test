@@ -1,12 +1,11 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <router-link to="https://www.baidu.com/">4545</router-link>
     <router-link to="/about">about</router-link>
 
     <router-view />
     <div class="dev">
-      dev第五次提交
+      dev第n次提交
     </div>
 
     <HelloWorld msg="Welcome to Your Vue.js App" />
