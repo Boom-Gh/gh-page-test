@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/gh-page-demo/'
+  publicPath: '/github-actions-demo/'
 }
