@@ -7,6 +7,7 @@
     <router-view />
     <div class="dev">
       /github-actions-demo/
+      VUE_ADMIN_TEMPLATE
     </div>
   </div>
 </template>
